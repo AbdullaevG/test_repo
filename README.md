@@ -15,5 +15,7 @@ On the terminal:
   3. git push origin main
 
 
+To pull first we have to add in terminal command: git fetch
+
 
 
