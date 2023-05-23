@@ -12,7 +12,7 @@ def dist(point_1, point_2, manhattan):
 
 
 def main():
-    print(f"{dist((0, 0), (1, 1), manhattan=True):.3f}")
+    print(f"{dist((0, 0), (1, 1), manhattan=True):.4f}")
 
 
 if __name__=="__main__":
