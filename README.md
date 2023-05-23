@@ -17,5 +17,9 @@ On the terminal:
 
 To pull first we have to add in terminal command: git fetch
 
+Create new brach: git checkout -b <BRANH NAME>
+Go to the existing branch: git checkout <BRANCH NAME>
+
+  
 
 
